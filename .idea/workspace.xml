@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebe791d0-b1a2-48d7-8835-f109310fc2c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="ebe791d0-b1a2-48d7-8835-f109310fc2c1" name="Changes" comment="files">
       <change afterPath="$PROJECT_DIR$/src/main/java/IlkHafta/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IlkHafta/Hafta0_IlkOdev.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/IlkHafta/OOP.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/IlkHafta/Power.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/IlkHafta/Solution.java" afterDir="false" />
@@ -138,8 +131,16 @@
       <workItem from="1659250551826" duration="6129000" />
       <workItem from="1659383722059" duration="5038000" />
       <workItem from="1659465708327" duration="4964000" />
-      <workItem from="1659507208597" duration="611000" />
+      <workItem from="1659507208597" duration="1247000" />
     </task>
+    <task id="LOCAL-00001" summary="files">
+      <created>1659512394037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659512394037</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,5 +156,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="files" />
+    <option name="LAST_COMMIT_MESSAGE" value="files" />
   </component>
 </project>

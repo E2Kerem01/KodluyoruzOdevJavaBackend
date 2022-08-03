@@ -25,6 +25,7 @@ public class Hafta0_IlkOdev {
             }System.out.println("");
         }
         for (int i = 0; i <= piramitSayi; i++){
+
             int counter2 = 0;
             while (counter2<i){
                 System.out.print(text);
